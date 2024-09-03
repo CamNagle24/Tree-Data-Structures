@@ -1,0 +1,19 @@
+(test
+ (libraries hwk_02_warmup)
+ (modules hwk_02_warmup_tests)
+ (name hwk_02_warmup_tests))
+
+(test
+ (libraries hwk_02_literacy)
+ (modules hwk_02_literacy_tests)
+ (name hwk_02_literacy_tests))
+
+(test
+ (libraries hwk_02_mastery)
+ (modules hwk_02_mastery_tests)
+ (name hwk_02_mastery_tests))
+
+(test
+ (libraries hwk_02_enrichment)
+ (modules hwk_02_enrichment_tests)
+ (name hwk_02_enrichment_tests))

@@ -1,0 +1,15 @@
+(library
+ (modules hwk_02_warmup)
+ (name hwk_02_warmup))
+
+(library
+ (modules hwk_02_literacy)
+ (name hwk_02_literacy))
+
+(library
+ (modules hwk_02_mastery)
+ (name hwk_02_mastery))
+
+(library
+ (modules hwk_02_enrichment)
+ (name hwk_02_enrichment))
